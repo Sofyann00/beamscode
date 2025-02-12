@@ -24,36 +24,6 @@ export function Footer() {
             </p>
           </div>
 
-          {/* Solutions section */}
-          {/* <div className="col-span-1">
-            <h3 className="text-lg font-semibold mb-6">Our Products</h3>
-            <ul className="space-y-4">
-              <li>
-                <Link
-                  href="/new-releases"
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  Latest Arrivals
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/jordan"
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  Nike Jordan
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/performance"
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  Nike Running
-                </Link>
-              </li>
-            </ul>
-          </div> */}
 
           {/* Help section */}
           <div className="col-span-1">
@@ -94,18 +64,18 @@ export function Footer() {
               <div className="space-y-2">
                 <p>
                   <a
-                    href="mailto:tech@Beamscode.com"
+                    href="mailto:admin@beamscoding.com"
                     className="hover:text-foreground transition-colors"
                   >
-                    tech@Beamscode.com
+                    admin@beamscoding.com
                   </a>
                 </p>
                 <p>
                   <a
-                    href="tel:+18001234567"
+                    href="tel:021-50111528"
                     className="hover:text-foreground transition-colors"
                   >
-                    1-800-123-4567
+                    021-50111528
                   </a>
                 </p>
               </div>
@@ -130,7 +100,7 @@ export function Footer() {
           {/* Copyright section */}
           <div className="col-span-1 md:col-span-4 mt-16 pt-8 border-t">
             <p className="text-sm text-muted-foreground text-center">
-              © {new Date().getFullYear()} PT SINAR TEKNOLOGI SOLUSI. Authorized Nike Retailer.
+              © {new Date().getFullYear()} PT SINAR TEKNOLOGI SOLUSI.
             </p>
           </div>
         </div>

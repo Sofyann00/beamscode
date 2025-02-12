@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'About Us - PT SINAR TEKNOLOGI SOLUSI',
-  description: 'Learn about Beamscode, your trusted authorized Nike retailer in Indonesia',
+  title: 'About Us - Beamscoding',
+  description: 'Learn about Beamscoding, your trusted IT solutions partner in Indonesia',
 }
 
 export default function AboutPage() {
@@ -11,10 +11,10 @@ export default function AboutPage() {
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-card p-8 rounded-lg shadow">
           <h1 className="text-3xl font-bold text-foreground mb-4">
-            About Beamscode
+            About Beamscoding
           </h1>
           <p className="text-sm text-muted-foreground italic mb-8">
-            Your Trusted Nike Retailer in Indonesia
+            Your Trusted IT Solutions Partner in Indonesia
           </p>
 
           <section className="space-y-8">
@@ -23,7 +23,7 @@ export default function AboutPage() {
                 Our Story
               </h2>
               <p className="text-muted-foreground">
-                Founded with a passion for authentic sneakers, Beamscode has grown to become one of Indonesia's most trusted authorized Nike retailers. Our journey began with a simple mission: to provide sneaker enthusiasts with guaranteed authentic products at competitive prices.
+                Founded with a commitment to digital excellence, Beamscoding has emerged as a leading IT solutions provider in Indonesia. Our journey began with a clear vision: to help businesses transform and thrive in the digital age through innovative technology solutions and expert services.
               </p>
             </div>
 
@@ -32,12 +32,12 @@ export default function AboutPage() {
                 Why Choose Us
               </h2>
               <ul className="text-muted-foreground list-disc pl-5 space-y-2">
-                <li>100% Authentic Nike Products</li>
-                <li>Competitive Pricing</li>
-                <li>Fast Nationwide Shipping</li>
-                <li>Excellent Customer Service</li>
-                <li>Secure Payment Options</li>
-                <li>Easy Returns Policy</li>
+                <li>Expert Development Team</li>
+                <li>Custom Software Solutions</li>
+                <li>Agile Development Methodology</li>
+                <li>Comprehensive IT Consulting</li>
+                <li>Reliable Technical Support</li>
+                <li>Proven Track Record</li>
               </ul>
             </div>
 
@@ -46,18 +46,32 @@ export default function AboutPage() {
                 Our Commitment
               </h2>
               <p className="text-muted-foreground">
-                At Beamscode, we are committed to providing our customers with the best shopping experience. Every product in our inventory is sourced directly from Nike, ensuring authenticity and quality. We take pride in our customer service and strive to make every interaction meaningful and satisfactory.
+                At Beamscoding, we are committed to delivering exceptional IT solutions that drive business growth. Our team of skilled developers and consultants works tirelessly to understand your unique challenges and create tailored solutions that exceed expectations. We pride ourselves on building long-term partnerships and ensuring client success through innovation and technical excellence.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                Store Location
+                Our Services
+              </h2>
+              <ul className="text-muted-foreground list-disc pl-5 space-y-2">
+                <li>Custom Software Development</li>
+                <li>Web Application Development</li>
+                <li>Mobile App Development</li>
+                <li>IT Consulting</li>
+                <li>Cloud Solutions</li>
+                <li>Digital Transformation</li>
+              </ul>
+            </div>
+
+            <div>
+              <h2 className="text-xl font-semibold text-foreground mb-3">
+                Office Location
               </h2>
               <div className="text-muted-foreground">
-                <p>Visit our flagship store:</p>
+                <p>Visit our office:</p>
                 <div className="mt-2">
-                  <p>PT SINAR TEKNOLOGI SOLUSI</p>
+                  <p>Beamscoding</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
@@ -75,12 +89,11 @@ export default function AboutPage() {
                 <div>
                   <p className="font-medium">Weekdays:</p>
                   <p>Monday - Friday</p>
-                  <p>10:00 AM - 8:00 PM</p>
+                  <p>09:00 AM - 5:00 PM</p>
                 </div>
                 <div>
                   <p className="font-medium">Weekends:</p>
-                  <p>Saturday - Sunday</p>
-                  <p>11:00 AM - 6:00 PM</p>
+                  <p>Closed</p>
                 </div>
               </div>
             </div>
@@ -92,9 +105,9 @@ export default function AboutPage() {
               <div className="text-muted-foreground">
                 <p>Get in touch with us:</p>
                 <div className="mt-2 space-y-1">
-                  <p>Customer Service: 1-800-123-4567</p>
-                  <p>Email: support@Beamscode.com</p>
-                  <p>Store Phone: (021) 50111528</p>
+                  <p>Phone: (021) 50111528</p>
+                  <p>Email: info@sinarteknologisolusi.com</p>
+                  <p>WhatsApp: +62 812-XXXX-XXXX</p>
                 </div>
               </div>
             </div>
