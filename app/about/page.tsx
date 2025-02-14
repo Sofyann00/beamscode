@@ -106,8 +106,8 @@ export default function AboutPage() {
                 <p>Get in touch with us:</p>
                 <div className="mt-2 space-y-1">
                   <p>Phone: (021) 50111528</p>
-                  <p>Email: info@sinarteknologisolusi.com</p>
-                  <p>WhatsApp: +62 812-XXXX-XXXX</p>
+                  <p>Email: admin@beamscoding.com</p>
+                  <p>WhatsApp: +62 812-7766-8953</p>
                 </div>
               </div>
             </div>

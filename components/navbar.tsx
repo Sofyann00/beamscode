@@ -36,7 +36,7 @@ export function Navbar() {
     },
     {
       href: "/marketplace",
-      label: "Marketplace",
+      label: "product",
       active: pathname === "/marketplace",
     },
   ]

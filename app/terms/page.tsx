@@ -84,7 +84,7 @@ export default function TermsPage() {
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@Beamscode.com</p>
+                  <p>Email: admin@beamscoding.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>
