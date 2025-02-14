@@ -10,10 +10,11 @@ export function Footer() {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center gap-x-2">
               <img 
-                src="/app_icon.jpg" 
+                src="/app_icon.png" 
                 alt="Beamscode Logo"
                 width={32}
                 height={32}
+                className="brightness-0 invert"
               />
               <span className="text-xl font-bold">Beamscode</span>
             </div>

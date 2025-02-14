@@ -96,12 +96,13 @@ export function Navbar() {
         </Sheet>
 
         <div className="flex items-center gap-x-2 ml-4 lg:ml-0">
-          <Image 
-            src="/app_icon.jpg" 
-            alt="Beamscode Logo"
-            width={32}
-            height={32}
-          />
+        <img 
+                src="/app_icon.png" 
+                alt="Beamscode Logo"
+                width={32}
+                height={32}
+                className="brightness-0 invert"
+              />
           <span className="text-xl font-bold">Beamscode</span>
         </div>
 
