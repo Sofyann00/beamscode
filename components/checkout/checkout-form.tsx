@@ -207,10 +207,6 @@ export function CheckoutForm() {
               <span>Subtotal</span>
               <span>Rp {total.toLocaleString("id-ID")}</span>
             </div>
-            <div className="flex justify-between">
-              <span>Shipping</span>
-              <span>Rp {shippingCost.toLocaleString("id-ID")}</span>
-            </div>
             <div className="flex justify-between font-bold">
               <span>Total</span>
               <span>Rp {grandTotal.toLocaleString("id-ID")}</span>

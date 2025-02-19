@@ -86,10 +86,6 @@ export default function CartPage() {
                 <span>Subtotal</span>
                 <span>{formatPrice(state.total)}</span>
               </div>
-              <div className="flex justify-between">
-                <span>Shipping</span>
-                <span>~</span>
-              </div>
               <div className="border-t pt-2 mt-2">
                 <div className="flex justify-between font-semibold">
                   <span>Total</span>
