@@ -4,7 +4,7 @@ export const products: Product[] = [
   {
     id: 1,
     name: "Full Stack Web Development",
-    description: "Complete web application development using Next.js, React, Node.js, and PostgreSQL. Includes responsive UI/UX design and API integration.",
+    description: "Wujudkan aplikasi web yang powerful dengan layanan Full Stack Development kami. Kami membangun solusi end-to-end yang scalable menggunakan teknologi modern seperti Next.js dan React, didukung dengan backend yang handal.",
     price: 8500000,
     image: "https://images.unsplash.com/photo-1603468620905-8de7d86b781e",
     category: "Web Development",
@@ -12,7 +12,7 @@ export const products: Product[] = [
   {
     id: 2,
     name: "Mobile App Development",
-    description: "Native mobile application development using React Native, Redux, and Firebase. Support for both iOS and Android platforms.",
+    description: "Kembangkan aplikasi mobile yang powerful dengan layanan Mobile Development kami. Kami ahli dalam membangun aplikasi native untuk iOS dan Android yang memberikan pengalaman pengguna yang optimal dan performa tinggi.",
     price: 9500000,
     image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
     category: "Mobile Development",
@@ -20,7 +20,7 @@ export const products: Product[] = [
   {
     id: 3,
     name: "E-commerce Solution",
-    description: "Custom e-commerce platform built with Next.js, Stripe integration, MongoDB, and AWS deployment. Includes admin dashboard and inventory management.",
+    description: "Tingkatkan bisnis online Anda dengan solusi E-commerce yang komprehensif dari kami. Kami menyediakan platform yang aman, mudah dikelola, dan dilengkapi dengan integrasi pembayaran serta sistem manajemen inventory yang efisien.",
     price: 10000000,
     image: "https://images.unsplash.com/photo-1557821552-17105176677c",
     category: "Web Development",
@@ -28,7 +28,7 @@ export const products: Product[] = [
   {
     id: 4,
     name: "Backend API Development",
-    description: "Scalable REST API development using Node.js, Express, PostgreSQL, and Docker. Includes authentication and authorization systems.",
+    description: "Hubungkan sistem Anda dengan mudah melalui layanan Backend API kami. Kami ahli dalam membangun API yang scalable, aman, dan memungkinkan integrasi seamless dengan berbagai layanan pihak ketiga.",
     price: 6500000,
     image: "https://images.unsplash.com/photo-1623479322729-28b25c16b011",
     category: "Backend Development",
@@ -36,7 +36,7 @@ export const products: Product[] = [
   {
     id: 5,
     name: "UI/UX Design & Development",
-    description: "Modern user interface design and development using Figma, React, Tailwind CSS, and Framer Motion. Includes user research and prototyping.",
+    description: "Tingkatkan pengalaman pengguna aplikasi Anda dengan layanan UI/UX Design kami. Kami menciptakan desain yang menarik dan intuitif, didukung dengan riset pengguna untuk hasil yang optimal.",
     price: 4500000,
     image: "https://images.unsplash.com/photo-1559028012-481c04fa702d",
     category: "Design",
@@ -44,7 +44,7 @@ export const products: Product[] = [
   {
     id: 6,
     name: "DevOps Implementation",
-    description: "Complete DevOps setup with CI/CD pipeline using GitHub Actions, Docker, Kubernetes, and AWS/GCP infrastructure.",
+    description: "Optimalkan proses development dan deployment dengan layanan DevOps kami. Kami membangun infrastruktur yang automated, scalable, dan reliable untuk meningkatkan efisiensi tim development Anda.",
     price: 8000000,
     image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb",
     category: "DevOps",
@@ -52,7 +52,7 @@ export const products: Product[] = [
   {
     id: 7,
     name: "WordPress Development",
-    description: "Custom WordPress development with PHP, MySQL, and custom theme development. Includes SEO optimization and security implementation.",
+    description: "Bangun presence online Anda dengan layanan WordPress Development kami. Kami menciptakan website yang customized, SEO-friendly, dan mudah dikelola sesuai kebutuhan bisnis Anda.",
     price: 3500000,
     image: "https://images.unsplash.com/photo-1606857521015-7f9fcf423740",
     category: "Web Development",
@@ -60,7 +60,7 @@ export const products: Product[] = [
   {
     id: 8,
     name: "Data Analytics Dashboard",
-    description: "Interactive dashboard development using React, D3.js, Python, and PostgreSQL. Includes data visualization and real-time analytics.",
+    description: "Visualisasikan data bisnis Anda dengan Dashboard Analytics yang interaktif. Kami membangun solusi yang memudahkan Anda menganalisis dan mengambil keputusan berdasarkan data real-time.",
     price: 7500000,
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
     category: "Data Analytics",
@@ -68,7 +68,7 @@ export const products: Product[] = [
   {
     id: 9,
     name: "Cloud Migration Service",
-    description: "Enterprise application migration to cloud using AWS/Azure, Docker containers, and Terraform. Includes performance optimization.",
+    description: "Modernisasi infrastruktur IT Anda dengan layanan Cloud Migration kami. Kami membantu transisi sistem Anda ke cloud dengan aman, efisien, dan tanpa gangguan pada operasional bisnis.",
     price: 9800000,
     image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
     category: "Cloud Services",
@@ -76,7 +76,7 @@ export const products: Product[] = [
   {
     id: 10,
     name: "Progressive Web App Development",
-    description: "PWA development with React, Service Workers, and IndexedDB. Includes offline functionality and push notifications.",
+    description: "Tingkatkan engagement pengguna dengan Progressive Web App yang powerful. Kami membangun aplikasi web yang dapat diakses offline dan memberikan pengalaman seperti aplikasi native.",
     price: 5500000,
     image: "https://images.unsplash.com/photo-1551650975-87deedd944c3",
     category: "Web Development",
@@ -84,7 +84,7 @@ export const products: Product[] = [
   {
     id: 11,
     name: "Microservices Architecture",
-    description: "Microservices implementation using Node.js, Docker, Kubernetes, and message queues (RabbitMQ/Kafka). Includes service mesh setup.",
+    description: "Tingkatkan skalabilitas sistem Anda dengan arsitektur Microservices. Kami membangun sistem yang modular, mudah dimaintain, dan dapat dikembangkan secara independen sesuai kebutuhan.",
     price: 9900000,
     image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a",
     category: "Backend Development",
@@ -92,7 +92,7 @@ export const products: Product[] = [
   {
     id: 12,
     name: "AI/ML Integration",
-    description: "Machine learning model integration using Python, TensorFlow, and Flask/FastAPI. Includes model training and API development.",
+    description: "Optimalkan proses bisnis Anda dengan integrasi AI/ML yang powerful. Kami membantu mengimplementasikan solusi machine learning yang dapat meningkatkan efisiensi dan memberikan insights berharga.",
     price: 9950000,
     image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
     category: "AI Development",
