@@ -88,12 +88,12 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-6">Office Location</h3>
             <div className="text-sm text-muted-foreground">
               <p className="leading-relaxed">
-                Komplek Perkantoran Duta Merlin Blok F13,<br />
-                Jalan Gajah Mada,<br />
-                Desa/Kelurahan Petojo Utara, Kec. Gambir,<br />
-                Kota Adm. Jakarta Pusat,<br />
-                Provinsi DKI Jakarta,<br />
-                Kode Pos: 10130
+                Menara Sudirman, Lantai 8,<br />
+                Jalan Jenderal Sudirman Kav. 60,<br />
+                Senayan, Kebayoran Baru,<br />
+                Jakarta Selatan,<br />
+                DKI Jakarta,<br />
+                Kode Pos: 12190
               </p>
             </div>
           </div>
